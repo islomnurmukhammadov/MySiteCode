@@ -1,0 +1,63 @@
+{
+    "math":{
+        "familya":"Nurmuhammadov",
+        "ism":"Islomjon",
+        "ota":"To'xtamurod o'g'li",
+        "image":"assets/images/math.png",
+        "fan":"Matematika (O'zbek)",
+        "daraja":"B",
+        "foiz":"87.54 %",
+        "ball":"56.9",
+        "berilgan_sana":"20.03.2025",
+        "amal_muddati":"19.03.2028",
+        "bo'limlar":{
+            "1":{
+                "title":"Algebra va matematik analiz asoslari",
+                "bo'lim_bali":"40.968"
+            },
+            "2":{
+                "title":"Geometriya",
+                "ball":"15.932"
+            }
+        }
+
+    },
+    "fizika":{
+        "familya":"Nurmuhammadov",
+        "ism":"Islomjon",
+        "ota":"To'xtamurod o'g'li",
+        "image":"assets/images/fizika.png",
+        "fan":"Fizika (O'zbek)",
+        "daraja":"C",
+        "foiz":"75.98 %",
+        "ball":"49.39",
+        "berilgan_sana":"30.05.2025",
+        "amal_muddati":"29.05.2028",
+        "bo'limlar":{
+            "1":{
+                "title":"Mexanika",
+                "bo'lim_bali":"17.432"
+            },
+            "2":{
+                "title":"Molekulyar fizika va termodinamika",
+                "ball":"2.905"
+            },
+            
+            "3":{
+                "title":"Elektr va magnetizm",
+                "ball":"8.716"
+            },
+            
+            "4":{
+                "title":"Zamonaviy fizika va optika",
+                "ball":"14.526"
+            },
+            
+            "5":{
+                "title":"Amaliy, hayotiy va mantiqiy fikrlashga oid masalalar",
+                "ball":"5.811"
+            }
+        }
+
+    }
+}
